@@ -1,0 +1,102 @@
+header {
+    background: url("../images/back.png") repeat scroll 0 0 #444444;
+    color: #FFFFFF;
+    padding: 0;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+header h1 {
+    font-family: 'Merienda One',cursive;
+    font-size: 40px;
+    line-height: 50px;
+}
+header h1 i {
+    font-size: 45px;
+	color: #F03805;
+}
+header h1 i.sw {
+    color: #FFFFFF;
+    font-size: 35px;
+    left: -20px;
+    margin-right: -20px;
+    position: relative;
+    text-shadow: 0 0 1px #000000 !important;
+}
+header h1 a, header h1 a:visited, header h1 a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.main h2 {
+    background: url("../images/w-border.png") repeat-x scroll center center transparent;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding: 0;
+}
+header p.phonenumber {
+    color: #FFFFFF;
+    font-family: 'Oswald',sans-serif;
+    font-size: 20px;
+    letter-spacing: 0.06em;
+    line-height: 35px;
+    margin: 15px auto 0;
+    text-align: center;
+}
+
+.intro {
+   
+}
+
+.padd {
+    padding: 10px;
+}
+
+.cta {
+    margin-top: 20px;
+}
+
+
+.main h2 {
+    background: url("../images/w-border.png") repeat-x scroll center center transparent;
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    padding: 0;
+	color: #F03805;
+}
+.main h2 span {
+    background: none repeat scroll 0 0 #FFFFFF;
+    padding-right: 8px;
+}
+.main h3 {
+    color: #555555;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 0 0 5px;
+    padding: 0 0 5px;
+}
+.main h4 {
+    color: #555555;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 10px 0;
+}
+.main h5 {
+    color: #555555;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald',sans-serif;
+    font-weight: normal;
+}
+
+li {
+  list-style: none;
+  line-height: 20px;
+	
+}
